@@ -1,0 +1,6 @@
+采集程序  com.dinotech
+AUTORUN com.example.autorun
+记事本 org.mightyfrog.android.simplenotepad
+文件管理 com.estrongs.android.pop
+风行串口  com.com645
+文件管理 com.softwinner.TvdFileManager /MainUI

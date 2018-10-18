@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/id_tab_hongdian" 
+        android:layout_width="0dp"  
+        android:layout_height="match_parent"  
+        android:layout_weight="1"  
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/imageButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:background="#00000000"
+            android:src="@drawable/gkj" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="黑色集中器" />
+
+    </LinearLayout>
+      <LinearLayout
+        android:id="@+id/id_tab_huise" 
+        android:layout_width="0dp"  
+        android:layout_height="match_parent"  
+        android:layout_weight="1"  
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:background="#00000000"
+            android:src="@drawable/gkj" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="灰色工控机" />
+
+    </LinearLayout>
+    
+    
+        <LinearLayout
+        android:id="@+id/id_tab_heise" 
+        android:layout_width="0dp"  
+        android:layout_height="match_parent"  
+        android:layout_weight="1"  
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:background="#00000000"
+            android:src="@drawable/gkj" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="宏电集中器" />
+
+    </LinearLayout>
+    
+        <LinearLayout
+        android:id="@+id/id_tab_mater" 
+        android:layout_width="0dp"  
+        android:layout_height="match_parent"  
+        android:layout_weight="1"  
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:background="#00000000"
+            android:src="@drawable/gkj" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="抄表软件界面" />
+
+    </LinearLayout>
+        
+        
+    
+        <LinearLayout
+        android:id="@+id/id_tab_about" 
+        android:layout_width="0dp"  
+        android:layout_height="match_parent"  
+        android:layout_weight="1"  
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:background="#00000000"
+            android:src="@drawable/gy" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="关于 " />
+
+    </LinearLayout>
+
+</LinearLayout>

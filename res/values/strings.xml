@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">集中器小工具</string>
+    <string name="click">查看版本请点击</string>
+    <string name="skip">升级请点击</string>
+    <string name="bbh">基带版本号</string>
+    <string name="jzqbh">集中器版本号</string>
+    <string name="jccxaz">检测程序是否安装</string>
+    <string name="buidding">安装</string>
+    <string name="az">第一次安装软件之前，请点击</string>
+    <string name="qxz">打开文件管理器</string>
+    <string name="mac">MAC地址</string>
+    <string name="pd">联网状态</string>
+    <string name="kjtb">复制开机图标到主目录</string>
+    <string name="sb">打开状态栏</string>
+    <string name="macz">点击查看mac地址</string>
+    <string name="lxqk">联网情况:</string>
+    <string name="ping">PING:</string>
+    <string name="pass">该软件已过期,所有功能均已无效</string>
+     <string name="help">操作步骤：输入表号，点击“打开串口”;  校验位（0：无校验，1：偶校验, 2：FX01）</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
